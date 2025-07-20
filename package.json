@@ -1,0 +1,19 @@
+{
+  "name": "microsoft-markitdown",
+  "version": "0.0.0",
+  "description": "NPM tool for converting files and office documents to Markdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AkshayPanchivala/microsoft-markitdown.git"
+  },
+  "author": "Akshay Panchivala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AkshayPanchivala/microsoft-markitdown/issues"
+  },
+  "homepage": "https://github.com/AkshayPanchivala/microsoft-markitdown#readme"
+}
