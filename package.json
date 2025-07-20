@@ -1,6 +1,6 @@
 {
   "name": "microsoft-markitdown",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "NPM tool for converting files and office documents to Markdown.",
   "main": "index.js",
   "scripts": {
